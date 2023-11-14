@@ -1,0 +1,7 @@
+<library path="lib/libhoming_local_planner">
+    <class name ="homing_local_planner/HomingLocalPlanner" type ="homing_local_planner::HomingLocalPlanner" base_class_type= "nav_core::BaseLocalPlanner">
+            <description>
+                An implementation of the Homing Local path planning algorithm.
+            </description>
+    </class>
+</library>
